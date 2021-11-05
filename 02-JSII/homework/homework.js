@@ -5,11 +5,11 @@ function devolverUltimoElemento(array) {
   // Tu código:
 
 }
-
+<li> Hola</li>
 function incrementarPorUno(array) {
   // "array" debe ser una arreglo de números enteros
   // Aumenta cada número por 1 y devuelve el array
-  // Tu código:
+  // Tu código: h
 
 }
 
